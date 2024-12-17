@@ -1,33 +1,11 @@
-# Gradle files
-.gradle/
-build/
+# Compiled
+*.elc
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Packaging
+.cask
 
-# Log/OS Files
-*.log
+# Backup files
+*~
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+# Undo-tree save-files
+*.~undo-tree
